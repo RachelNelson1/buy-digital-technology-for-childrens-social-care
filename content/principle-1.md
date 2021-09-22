@@ -63,6 +63,6 @@ During procurement, the following should be demonstrated:
 
 Different local authorities have users with different needs, abilities, and ways of working, which makes standardisation of case management systems challenging. Procurement is not always user-centred, so user needs do not feed into the design of the case management system. Understanding the needs of internal users and children and families to allow them to co-create records can be a challenge.
 
-[Introduction](/index)
-
 [Next principle: Design systems to work interoperably](/principle-2)
+
+[Introduction](/index)
