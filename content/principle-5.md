@@ -2,7 +2,7 @@
 title: "Design systems that reflect the voice of the child"
 ---
 
-##Importance of reflecting the voice of the child
+## Importance of reflecting the voice of the child
 
 To ensure their thoughts and opinions are considered and influence the decisions that professionals make, children and young people should have the opportunity to input their experiences using their own voice. They should always be involved and have information fed back to them in a way that they can understand. It is important the child is able to see their voice reflected in their record to help them make sense of their personal story.
 
@@ -42,11 +42,11 @@ Systems should allow:
 
 Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
 
-##Available guidance
+## Available guidance
 
 (needs adding)
 
-##Good practice
+## Good practice
 
 During procurement, the following must be demonstrated:
 
@@ -58,10 +58,10 @@ During procurement, the following must be demonstrated:
 
 ##Challenges
 
-This is about making sure there are options to build into local design if needed, but in some cases this need can often be met outside of the system. Better engagement tools are needed to feed into the structured recording of a case management systems. 
+This is about making sure there are options to build into local design if needed. However in some cases, this need can often be met outside of the system. Better engagement tools are needed to feed into the structured recording of a case management system. 
 
-[Introduction](/index)
+[Next principle: Design systems that include performance analytics for monitoring](/principle-6)
 
 [Previous principle: Design systems to be accessible and inclusive](/principle-4)
 
-[Next principle: Design systems that include performance analytics for monitoring](/principle-6)
+[Introduction](/index) 
