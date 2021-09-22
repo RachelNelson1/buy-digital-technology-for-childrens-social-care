@@ -27,7 +27,7 @@ You should learn as much as possible about the problems facing users by:
 * building prototypes to test hypotheses and functionality
 * using analytics and other available data to better understand the problem
 
-System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting Key Performance Indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
+System suppliers should work with local authorities to set out the measures that will be used to assess the outputs, outcomes and benefits of the CMS, setting key performance indicators (KPIs). Performance data and reports must be available to monitor and improve the service. This information should be assessed against the KPIs and used to inform iterations and improvements.
 
 In addition, system suppliers should show where and how cost savings can be made as a result of the use of their CMS in a children's social care setting.
 
@@ -61,7 +61,13 @@ During procurement, the following should be demonstrated:
 
 ##Challenges
 
-Different local authorities have users with different needs, abilities, and ways of working, which makes standardisation of case management systems challenging. Procurement is not always user-centred, so user needs do not feed into the design of the case management system. Understanding the needs of internal users and children and families to allow them to co-create records can be a challenge.
+Different local authorities have users with different:
+
+* needs
+* abilities
+* ways of working
+
+This makes standardisation of case management systems challenging. Procurement is not always user-centred, so user needs do not feed into the design of the CMS. Understanding the needs of internal users and children and families to allow them to co-create records can be a challenge.
 
 [Introduction](/index)
 
