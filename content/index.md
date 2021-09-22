@@ -13,7 +13,7 @@ Use this guidance alongside existing technical standards, as indicated, to plan,
 Case management systems need to:
 
 * meet user needs, based on research with users
-* support the sharing of information across agencies e.g. health and police 
+* support the sharing of information across agencies, for example health and police 
 * be easy to maintain
 * be scalable for future use
 * allow for intergration with third-party suppliers
