@@ -2,7 +2,7 @@
 title: "Design systems that reflect the voice of the child"
 ---
 
-##Importance of reflecting the voice of the child
+## Importance of reflecting the voice of the child
 
 To ensure their thoughts and opinions are considered and influence the decisions that professionals make, children and young people should have the opportunity to input their experiences using their own voice. They should always be involved and have information fed back to them in a way that they can understand. It is important the child is able to see their voice reflected in their record to help them make sense of their personal story.
 
@@ -35,18 +35,18 @@ Suppliers should design systems where children and young people have been direct
 Systems should allow:
 
 * local authorities to see how much direct work with children is taking place and enable oversight of child centred activities including outcomes, ambitions and strengths 
-* for details to be captured that reflect each individual child - for example ways to describe gender, beliefs and interests
+* for details to be captured that reflect each individual child - for example, ways to describe gender, beliefs and interests
 * social workers to upload a range of media and file sizes
 * for the development of features and functionality which allow children and young people to directly interact with the system 
 * for the development of features that support interoperability between a range of tools social workers may want to employ to engage children and young people to communicate and captures their voice in ways which support their personal choices, age, context and abilities 
 
 Children and young people should be directly involved in measuring the effectiveness of the system, by using outcome and impact measures created as part of the selection and evaluation process.
 
-##Available guidance
+## Available guidance
 
 (needs adding)
 
-##Good practice
+## Good practice
 
 During procurement, the following must be demonstrated:
 
@@ -56,7 +56,7 @@ During procurement, the following must be demonstrated:
 * how families and children have access via standard products they use in everyday life
 * how forms and workflows have prompts to make the user input information in a way that it is written directly ‘to the child
 
-##Challenges
+## Challenges
 
 This is about making sure there are options to build into local design if needed, but in some cases this need can often be met outside of the system. Better engagement tools are needed to feed into the structured recording of a case management systems. 
 
