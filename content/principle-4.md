@@ -2,13 +2,13 @@
 title: "Design systems to be accessible and inclusive"
 ---
 
-##Importance of accessible
+## Importance of accessibility
 
 Children’s social care case management systems and tools must be accessible, so that anyone can use them anywhere.
 
 All case management systems should be designed to meet the needs of a diverse range of users. This includes those with different physical, cultural or learning needs. 
 
-Tools and systems must be user-centred and be:
+Tools and systems must be:
 
 * easy to understand
 * easy to use
@@ -22,7 +22,7 @@ Suppliers and local authorities should:
 * make sure people are not excluded from using the system because they lack digital skills or internet access (offline working) - appropriate training and support should be provided if necessary 
 * provide evidence of gathering and evaluating user feedback and release updates to continually improve the service
 
-##Available guidance
+## Available guidance
 
 * [Testing with assistive technologies](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies)
 * [Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems ISO 9241-210:2019](https://www.iso.org/standard/77520.html)
@@ -30,7 +30,7 @@ Suppliers and local authorities should:
 * [Accessibility and assisted digital guidance](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [DCB1605: Accessible Information](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb1605-accessible-information)
 
-##Good practice
+## Good practice
 
 During procurement, the following should be demonstrated:
 
@@ -49,12 +49,12 @@ Use of terminology that is inclusive of:
 * sexuality
 * gender
 
-##Challenges
+## Challenges
 
 Systems often do not support accessibility tools (for example, screen readers) and may not be designed to meet current accessibility standards. There are external products available that can support this. Capturing pronouns and names for children has also been a recurring issue for local authorities,
 
-[Introduction](/index)
+[Next principle: Design systems that reflect the voice of the child](/principle-5)
 
 [Previous principle: Design systems that are simple to use](/principle-3)
 
-[Next principle: Design systems that reflect the voice of the child](/principle-5)
+[Introduction](/index)
